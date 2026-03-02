@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE polprojfile>
+<ppfml version="2.00" project="knife-maintenance-manual" type="4">
+ <windowlist defaultwindow="NewWindow">
+  <window name="NewWindow" x="5%" y="5%" width="90%" height="90%" viewtype="doublepane" workspacestyle="DEFAULT" toolbar="off" locationbar="off" menu="off" resizable="yes" statusbar="off" usecurrentwindowsettings="yes" caption="NewWindow">
+   <elements><element name="BrowseSequence" Present="yes" /><element name="SearchInput" Present="no" />
+   </elements>
+   <agents defaultagent="toc">
+    <agent>toc
+    </agent>
+    <agent>ndx
+    </agent>
+    <agent>nls
+    </agent>
+    <agent>gls
+    </agent>
+   </agents>
+  </window>
+ </windowlist>
+ <contextmap>
+  <contextentry id="1" page="knife-maintenance-manual\XML\checking-cylinder-gear-preload.html">
+  </contextentry>
+ </contextmap>
+ <topiclist defaulttopic="knife-maintenance-manual\XML\safety.html">
+  <topic>knife-maintenance-manual\XML\checking-cylinder-gear-preload.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\cleaning.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\coil-inductance-test.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\cylinder-drive-replacement.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\cylinder-encoder-replacement.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\cylinder-motor-replacement.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\cylinder-motor-resolver-replacement.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\dc-bus-capacitors.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\draw-roll-encoder-replacement.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\electrical-components.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\estops.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\fluid-and-filter-replacement-procedure.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\gaining-access-to-knife-cylinders.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\general-checks.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\installing-blades.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\insulation-resistance-test.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\jam-clearing-and-threading-web.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\liquid-motor-winding-test-procedures.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\loosening-tight-blades.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\lubrication.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\manual-rotation-of-cylinders.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\nip-roll-alignment.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\operator-control-descriptions.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\operator-controls.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\pneumatic_components.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\preventive-maintenance.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\pull-roll-drive-belt-replacement.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\pull-roll-motor-replacement.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\removing-and-installing-blades.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\removing-blades.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\removing-power-from-zones.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\safety-features.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\safety-guidelines.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\safety-lockout-zes.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\safety-sign-locations.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\safety.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\setting-cylinder-gear-preload.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\signal-words.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\sound-information.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\spot-tuning-used-blades.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\tuning-new-blades.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\tuning-used-blades.html
+  </topic>
+  <topic>knife-maintenance-manual\XML\turning-power-on.html
+  </topic>
+ </topiclist>
+ <projectincludes>
+ </projectincludes>
+ <filenamemap>
+  <filenameentry moniker="wh_languagetype">
+   <filename>en_US
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="nls">
+   <filename>.nla
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_lngfile">
+   <filename>index.lng
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="wh_stoplist">
+   <filename>index.stp
+   </filename>
+  </filenameentry>
+  <filenameentry moniker="startpage">
+   <filename>index.html
+   </filename>
+  </filenameentry>
+ </filenamemap>
+</ppfml>
